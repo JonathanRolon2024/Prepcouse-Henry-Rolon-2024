@@ -1,2 +1,2 @@
-# Prepcouse-Henry-Rolon-2024
-Este es un repositorio del modulo 2 de Henry
+Prueba de como realizar un repositorio y conectarlo con github
+
